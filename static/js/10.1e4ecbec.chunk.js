@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10,26],{143:function(a,n,e){},49:function(a,n,e){"use strict";e.r(n);var o=e(0),t=e.n(o);e(143);n.default=function(){return t.a.createElement("div",{className:"menu"},t.a.createElement("i",{className:"fas fa-bars float-right",onClick:function(){localStorage.clear(),window.location.reload()}}))}}}]);
+//# sourceMappingURL=10.1e4ecbec.chunk.js.map
