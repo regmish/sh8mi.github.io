@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{43:function(e,a,t){"use strict";t.r(a);var n=t(0),c=t.n(n);a.default=function(e){var a=e.friend,t=void 0===a?{}:a,n=t.firstName,s=t.lastName;return c.a.createElement("div",{className:"chat-header"},c.a.createElement("div",{className:"chatting-with"},c.a.createElement("span",null,"".concat(n," ").concat(s)),c.a.createElement("span",{className:"online-status"},"Active now")))}}}]);
+//# sourceMappingURL=4.b38d7a82.chunk.js.map

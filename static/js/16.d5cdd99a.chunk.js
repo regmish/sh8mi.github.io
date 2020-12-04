@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{58:function(e,a,t){"use strict";t.r(a);var s=t(0),n=t.n(s);a.default=function(e){var a=e.activeTab;return n.a.createElement("div",{className:"header"},n.a.createElement("div",{className:"header-text"},n.a.createElement("span",null,a)),n.a.createElement("div",{className:"header-add-user"},n.a.createElement("i",{className:"fas fa-user-plus"})))}}}]);
+//# sourceMappingURL=16.d5cdd99a.chunk.js.map
