@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{46:function(e,t,a){"use strict";a.r(t);var n=a(0),s=a.n(n);t.default=function(){return s.a.createElement("div",{className:"no-chat-selected"},"Please select a chat to start messaging")}}}]);
-//# sourceMappingURL=7.ea5c1b9a.chunk.js.map
