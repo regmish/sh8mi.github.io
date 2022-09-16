@@ -1,2 +1,0 @@
-(this["webpackJsonpshankarregmi.github.io"]=this["webpackJsonpshankarregmi.github.io"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var i=n(0),r=n.n(i),o=n(3),c=n.n(o),s=(n(8),n(1)),h=function(){return Object(s.jsx)("div",{children:"The quick brown fox jumps over the lazy dog"})};c.a.render(Object(s.jsx)(r.a.StrictMode,{children:Object(s.jsx)(h,{})}),document.getElementById("root"))},8:function(e,t,n){}},[[10,1,2]]]);
-//# sourceMappingURL=main.cfcee25a.chunk.js.map
